@@ -1,0 +1,16 @@
+C:\Users\Ben\source\repos\VST-Synth\bin\Debug\VST-Synth.exe.config
+C:\Users\Ben\source\repos\VST-Synth\bin\Debug\VST-Synth.exe
+C:\Users\Ben\source\repos\VST-Synth\bin\Debug\VST-Synth.pdb
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\VST-Synth.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\MainWindow.g.cs
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\App.g.cs
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\VST-Synth_MarkupCompile.cache
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\VST-Synth_MarkupCompile.lref
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\MainWindow.baml
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\VST-Synth.g.resources
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\VST_Synth.Properties.Resources.resources
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\VST-Synth.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\VST-Synth.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\VST-Synth.exe
+C:\Users\Ben\source\repos\VST-Synth\obj\Debug\VST-Synth.pdb
+C:\Users\Ben\source\repos\VST-Synth\bin\Debug\Resources\download.gif
